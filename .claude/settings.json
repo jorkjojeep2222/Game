@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "gamedev-claude-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "sponticelli/gamedev-claude-plugins"
+      }
+    }
+  }
+}
