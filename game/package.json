@@ -1,0 +1,21 @@
+{
+  "name": "barbarian-idle",
+  "version": "0.7.0",
+  "private": true,
+  "type": "module",
+  "description": "เกม idle แนวเอาชีวิตรอด ได้แรงบันดาลใจจากมังฮวา Surviving the Game as a Barbarian",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "bundle": "node tools/bundle.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
